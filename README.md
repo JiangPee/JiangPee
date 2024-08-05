@@ -26,7 +26,7 @@
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=JiangPee&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
     <!-- wakatime -->    
-    <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
+    <!-- <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a> -->
 
   </div>
 
@@ -51,8 +51,8 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <!-- GitHub 数据统计 -->
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JiangPee&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JiangPee&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
+<img height="123px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JiangPee&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="123px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JiangPee&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
